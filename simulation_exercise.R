@@ -1,5 +1,6 @@
 ################################################################################
 # Simulation Exercise
+# Renan Chicarelli Marques
 ################################################################################
 
 #Loading data wrangling and visualization packages for efficiency and aesthetics purposes
