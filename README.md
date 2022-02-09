@@ -1,5 +1,7 @@
 # README
 
+The R script provided in this repository was my resolution to this exercise.
+
 ## Instructions for the simulation exercise
 
 ### Task 1
