@@ -1,6 +1,6 @@
 # README
 
-The R script provided in this repository was my resolution to this exercise.
+The R script provided in this repository was my solution to this exercise.
 
 ## Instructions for the simulation exercise
 
