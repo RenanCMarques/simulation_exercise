@@ -1,12 +1,12 @@
 ################################################################################
 # Simulation Exercise
-# Renan Chicarelli Marques
+# Renan Chicarelli Marques  
 ################################################################################
 
-#Loading data wrangling and visualization packages for efficiency and aesthetics purposes
+#Loading packages for wrangling and visualization 
 library(dplyr)
 library(ggplot2)
-library(ggrepel) 
+library(ggrepel)
 
 ################################################################################
 # Task (1) 
